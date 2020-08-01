@@ -1,5 +1,5 @@
 # Praxis
-Details of findOccurance.py :
+*Details of findOccurance.py* :
 
 This script is developed to print the continuous occurrence of each letter in the word along with the number.
 
